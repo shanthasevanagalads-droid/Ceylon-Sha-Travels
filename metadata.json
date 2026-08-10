@@ -1,0 +1,6 @@
+{
+  "name": "Ceylon Sha Travels",
+  "description": "Boutique handcrafted travel experiences and tour curator for Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
